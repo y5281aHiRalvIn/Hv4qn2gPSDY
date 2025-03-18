@@ -137,7 +137,6 @@ A tale within _The Canterbury Tales_, comes after the Physician's Tale.
 - Authur initially hesitates but takes the challenge, cutting off the knight's head. The Green Knight picks up his severed head and rides off.
 
 ## 11. Monty Python – Quest of the Holy Grail
-
 Monty Python is a low budget parody movie based on the _Quest of Holy Grail_ that used coconuts to imitate the sound of horses.
 
 - **Holy Grail** is the cup Jesus drank at the last supper.
